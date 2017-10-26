@@ -1,27 +1,29 @@
 class: center, middle
 
-# 讲义题目
+# 计概课自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 郭虓 
 
-主页: https://github.com/author
+邮箱：pkuguoxiao@pku.edu.cn
 
 ---
 
-## 本讲内容
+## 欢迎！
 
-### <font color="orangered">1. 第一部分</font>
+### <font color="orangered">1. 我</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 姓名：郭虓
+#### &nbsp; &nbsp; 1.2 院系：化学与分子工程学院
+#### &nbsp; &nbsp; 1.3 目标：好好学习
 
-### 2. 第二部分
+### 2. 我的计算概论B</font>
 
-### 3. 第三部分
+#### &nbsp; &nbsp; 2.1 编程语言：Python
+#### &nbsp; &nbsp; 2.2 编辑器：Pycharm
+#### &nbsp; &nbsp; 2.3 操作系统：Mac OS X
 
 ---
 

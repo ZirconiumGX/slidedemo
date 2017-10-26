@@ -45,19 +45,19 @@ class: center, middle
 
 ---
 
-## 2.我的计概B
+## 2.我的计算概论B
 
 #### &nbsp; &nbsp;使用Python3
 
 ---
 
-## 2.我的计概B
+## 2.我的计算概论B
 
 #### &nbsp; &nbsp;使用Pycharm和Anaconda
 
 ---
 
-## 2.我的计概B
+## 2.我的计算概论B
 
 #### &nbsp; &nbsp;在Mac OS X环境下运行
 

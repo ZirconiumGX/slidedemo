@@ -15,50 +15,54 @@ class: center, middle
 
 ### <font color="orangered">1. 我</font>
 
-#### &nbsp; &nbsp; 1.1 姓名：郭虓
-#### &nbsp; &nbsp; 1.2 院系：化学与分子工程学院
-#### &nbsp; &nbsp; 1.3 目标：好好学习
+#### &nbsp; &nbsp; 1.1 姓名
+#### &nbsp; &nbsp; 1.2 院系
+#### &nbsp; &nbsp; 1.3 目标
 
 ### 2. 我的计算概论B</font>
 
-#### &nbsp; &nbsp; 2.1 编程语言：Python
-#### &nbsp; &nbsp; 2.2 编辑器：Pycharm
-#### &nbsp; &nbsp; 2.3 操作系统：Mac OS X
+#### &nbsp; &nbsp; 2.1 编程语言
+#### &nbsp; &nbsp; 2.2 编辑器
+#### &nbsp; &nbsp; 2.3 操作系统
 
 ---
 
-## 第一部分
+## 1<font color="orangered">我
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+#### &nbsp; &nbsp; 我，郭虓
 
 ---
 
-## 插图
+## 1<font color="orangered">我
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+#### &nbsp; &nbsp; 化学与分子工程学院2017级新生
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 1<font color="orangered">我
 
+#### &nbsp; &nbsp; 好好学习，努力奋斗，成就自我
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+---
 
-Display formula:
+## 2<font color="orangered">我的计概B
 
-$$e^{i\pi} + 1 = 0$$
+#### &nbsp; &nbsp;使用Python3
+
+---
+
+## 2<font color="orangered">我的计概B
+
+#### &nbsp; &nbsp;使用Pycharm和Anaconda
+
+---
+
+## 2<font color="orangered">我的计概B
+
+#### &nbsp; &nbsp;在Mac OS X环境下运行
 
 ---
 
 class: center, middle
 
-# 谢谢
+# 谢谢！！

@@ -13,7 +13,7 @@ class: center, middle
 
 ## 欢迎！
 
-### <font color="orangered">1.我</font>
+### 1.我</font>
 
 #### &nbsp; &nbsp; 1.1 姓名
 #### &nbsp; &nbsp; 1.2 院系
